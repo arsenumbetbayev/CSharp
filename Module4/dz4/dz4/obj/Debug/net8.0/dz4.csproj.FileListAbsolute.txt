@@ -1,0 +1,15 @@
+C:\Users\Расул\CSProjects\dz\dz4\dz4\bin\Debug\net8.0\dz4.exe
+C:\Users\Расул\CSProjects\dz\dz4\dz4\bin\Debug\net8.0\dz4.deps.json
+C:\Users\Расул\CSProjects\dz\dz4\dz4\bin\Debug\net8.0\dz4.runtimeconfig.json
+C:\Users\Расул\CSProjects\dz\dz4\dz4\bin\Debug\net8.0\dz4.dll
+C:\Users\Расул\CSProjects\dz\dz4\dz4\bin\Debug\net8.0\dz4.pdb
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\dz4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\dz4.AssemblyInfoInputs.cache
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\dz4.AssemblyInfo.cs
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\dz4.csproj.CoreCompileInputs.cache
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\dz4.sourcelink.json
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\dz4.dll
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\refint\dz4.dll
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\dz4.pdb
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\dz4.genruntimeconfig.cache
+C:\Users\Расул\CSProjects\dz\dz4\dz4\obj\Debug\net8.0\ref\dz4.dll

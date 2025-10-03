@@ -1,0 +1,15 @@
+C:\Users\Расул\CSProjects\labs\laba3\laba3\bin\Debug\net8.0\laba3.exe
+C:\Users\Расул\CSProjects\labs\laba3\laba3\bin\Debug\net8.0\laba3.deps.json
+C:\Users\Расул\CSProjects\labs\laba3\laba3\bin\Debug\net8.0\laba3.runtimeconfig.json
+C:\Users\Расул\CSProjects\labs\laba3\laba3\bin\Debug\net8.0\laba3.dll
+C:\Users\Расул\CSProjects\labs\laba3\laba3\bin\Debug\net8.0\laba3.pdb
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\laba3.AssemblyInfoInputs.cache
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\laba3.AssemblyInfo.cs
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\laba3.csproj.CoreCompileInputs.cache
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\laba3.sourcelink.json
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\laba3.dll
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\refint\laba3.dll
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\laba3.pdb
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\laba3.genruntimeconfig.cache
+C:\Users\Расул\CSProjects\labs\laba3\laba3\obj\Debug\net8.0\ref\laba3.dll

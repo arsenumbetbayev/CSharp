@@ -1,0 +1,15 @@
+C:\Users\Расул\CSProjects\practice\practice2\practice2\bin\Debug\net8.0\practice2.exe
+C:\Users\Расул\CSProjects\practice\practice2\practice2\bin\Debug\net8.0\practice2.deps.json
+C:\Users\Расул\CSProjects\practice\practice2\practice2\bin\Debug\net8.0\practice2.runtimeconfig.json
+C:\Users\Расул\CSProjects\practice\practice2\practice2\bin\Debug\net8.0\practice2.dll
+C:\Users\Расул\CSProjects\practice\practice2\practice2\bin\Debug\net8.0\practice2.pdb
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\practice2.AssemblyInfoInputs.cache
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\practice2.AssemblyInfo.cs
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\practice2.csproj.CoreCompileInputs.cache
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\practice2.sourcelink.json
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\practice2.dll
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\refint\practice2.dll
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\practice2.pdb
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\practice2.genruntimeconfig.cache
+C:\Users\Расул\CSProjects\practice\practice2\practice2\obj\Debug\net8.0\ref\practice2.dll
