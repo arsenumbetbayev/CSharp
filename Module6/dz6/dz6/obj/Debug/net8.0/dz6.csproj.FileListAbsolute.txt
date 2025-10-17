@@ -1,0 +1,15 @@
+C:\Users\Расул\CSProjects\dz\dz6\dz6\bin\Debug\net8.0\dz6.exe
+C:\Users\Расул\CSProjects\dz\dz6\dz6\bin\Debug\net8.0\dz6.deps.json
+C:\Users\Расул\CSProjects\dz\dz6\dz6\bin\Debug\net8.0\dz6.runtimeconfig.json
+C:\Users\Расул\CSProjects\dz\dz6\dz6\bin\Debug\net8.0\dz6.dll
+C:\Users\Расул\CSProjects\dz\dz6\dz6\bin\Debug\net8.0\dz6.pdb
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\dz6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\dz6.AssemblyInfoInputs.cache
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\dz6.AssemblyInfo.cs
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\dz6.csproj.CoreCompileInputs.cache
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\dz6.sourcelink.json
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\dz6.dll
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\refint\dz6.dll
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\dz6.pdb
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\dz6.genruntimeconfig.cache
+C:\Users\Расул\CSProjects\dz\dz6\dz6\obj\Debug\net8.0\ref\dz6.dll
